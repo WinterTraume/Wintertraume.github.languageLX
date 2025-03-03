@@ -272,55 +272,27 @@ So in simple speech, you should learn German or French for the **best* life in E
 I highly suggest Duolingo for studying and getting an understanding of the language you want to learn all languages mentioned in the first part are on there while the German french and Spanish courses are the most advanced with Mandarin and Japanese getting there these alone can take you up to B2 for german french and Spanish and up to A2-B1 in Japanese and mandarin and in languages like dutch danish etc you can get up to A2 I also highly suggest reading learning books on your language most of these can be found at your local library or bookstores or ordered online I also suggest learning about your desired country you want to go to / learn the language it helps you desire to learn more of the language and listen to music in the language you like it helps you learn the feel and read the lyrics as it is being sung I would listen to Stromae when I was first learning french and it greatly helped me learn how french is pronounced 
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pronunciation Tips</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-        }
-        h2 {
-            color: #2c3e50;
-        }
-        p {
-            margin: 10px 0;
-        }
-        .language-section {
-            margin-bottom: 20px;
-        }
-    </style>
-</head>
-<body>
 
-    <h1>Pronunciation Tips for German, French, and Spanish</h1>
 
-    <div class="language-section">
-        <h2>German Pronunciation</h2>
-        <p><strong>Vowel Sounds:</strong> German vowels can be short or long, affecting word meaning. For example, "bitte" (short 'i') means "please," while "biete" (long 'i') means "offer."</p>
-        <p><strong>Consonant Combinations:</strong> Certain consonant pairs have distinct sounds. For instance, "sch" is pronounced like the English "sh" in "shoe," as in "Schule" (school).</p>
-        <p><strong>Umlauts:</strong> The characters ä, ö, and ü represent vowel sounds not found in English. For example, "Mädchen" (girl) uses 'ä' pronounced like the 'e' in "bed."</p>
-    </div>
+# Pronunciation Tips for German, French, and Spanish
 
-    <div class="language-section">
-        <h2>French Pronunciation</h2>
-        <p><strong>Nasal Vowels:</strong> French includes nasalized vowels, where air flows through the nose. Words like "pain" (bread) and "vin" (wine) feature these sounds.</p>
-        <p><strong>Silent Letters:</strong> Many French words have silent letters, especially at the end. For example, "chat" (cat) is pronounced "sha," omitting the 't' sound.</p>
-        <p><strong>Liaison:</strong> In certain contexts, a normally silent final consonant is pronounced to link words smoothly, such as in "vous avez" (you have), pronounced "vou-zavez."</p>
-    </div>
+## German Pronunciation
 
-    <div class="language-section">
-        <h2>Spanish Pronunciation</h2>
-        <p><strong>Phonetic Spelling:</strong> Spanish is largely phonetic; words are pronounced as they are written. For example, "casa" is pronounced "ka-sa."</p>
-        <p><strong>Rolled 'R':</strong> The Spanish 'r' is trilled or rolled, as in "perro" (dog).</p>
-        <p><strong>Vowel Clarity:</strong> Spanish vowels are clear and consistent, with each vowel having a single, unchanging sound.</p>
-    </div>
+- **Vowel Sounds:** German vowels can be short or long, affecting word meaning. For example, "bitte" (short 'i') means "please," while "biete" (long 'i') means "offer."
+- **Consonant Combinations:** Certain consonant pairs have distinct sounds. For instance, "sch" is pronounced like the English "sh" in "shoe," as in "Schule" (school).
+- **Umlauts:** The characters ä, ö, and ü represent vowel sounds not found in English. For example, "Mädchen" (girl) uses 'ä' pronounced like the 'e' in "bed."
 
-</body>
-</html>
+## French Pronunciation
+
+- **Nasal Vowels:** French includes nasalized vowels, where air flows through the nose. Words like "pain" (bread) and "vin" (wine) feature these sounds.
+- **Silent Letters:** Many French words have silent letters, especially at the end. For example, "chat" (cat) is pronounced "sha," omitting the 't' sound.
+- **Liaison:** In certain contexts, a normally silent final consonant is pronounced to link words smoothly, such as in "vous avez" (you have), pronounced "vou-zavez."
+
+## Spanish Pronunciation
+
+- **Phonetic Spelling:** Spanish is largely phonetic; words are pronounced as they are written. For example, "casa" is pronounced "ka-sa."
+- **Rolled 'R':** The Spanish 'r' is trilled or rolled, as in "perro" (dog).
+- **Vowel Clarity:** Spanish vowels are clear and consistent, with each vowel having a single, unchanging sound.
 
 
 ## Resources for information
