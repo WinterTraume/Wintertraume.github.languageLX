@@ -28,26 +28,32 @@ Embrace this journey, knowing that every new language not only opens cultural do
   - **Total Speakers:** Over **560 million** speakers worldwide.
 - **Job Opportunities:**  
   - In the USA, bilingual employees may see an estimated **5-15% pay increase**.
-- **Primary Spanish-Speaking Countries:**  
+- **Primary Spanish-Speaking Countries:**
   - **Argentina:**  
     - **Average Pay:** ~**$500 USD/month** / ~**€450/month**  
     - **Effective Tax Rate:** ~**35%**  
-    - **Cost of Living Index:** ~**40**
+    - **Average Housing Cost:** ~**$200 USD/month**  
+    - **Disposable Income:** ~**$125 USD/month**  
   - **Colombia:**  
     - **Average Pay:** ~**$700 USD/month** / ~**€650/month**  
     - **Effective Tax Rate:** ~**15%**  
-    - **Cost of Living Index:** ~**45**
+    - **Average Housing Cost:** ~**$150 USD/month**  
+    - **Disposable Income:** ~**$445 USD/month**  
   - **Spain:**  
     - **Average Pay:** ~**$2,700 USD/month** / ~**€2,500/month**  
     - **Effective Tax Rate:** ~**24%**  
-    - **Cost of Living Index:** ~**60**
+    - **Average Housing Cost:** ~**$900 USD/month**  
+    - **Disposable Income:** ~**$1,152 USD/month**  
   - **Mexico:**  
     - **Average Pay:** ~**$1,000 USD/month** / ~**€920/month**  
     - **Effective Tax Rate:** ~**20%**  
-    - **Cost of Living Index:** ~**50**
+    - **Average Housing Cost:** ~**$250 USD/month**  
+    - **Disposable Income:** ~**$550 USD/month**
 - **Benefits:**  
   - Opens doors to a rich cultural tapestry and further learning of Romance languages.
 - **Difficulty Rating:** **IV** *(Easiest for English speakers)*
+
+---
 
 ### French
 - **Global Reach:**  
@@ -56,26 +62,32 @@ Embrace this journey, knowing that every new language not only opens cultural do
   - **Total Speakers:** Over **300 million** worldwide.
 - **Job Opportunities:**  
   - Vital in diplomacy, international business, and creative industries.
-- **Primary French-Speaking Countries:**  
+- **Primary French-Speaking Countries:**
   - **France:**  
     - **Average Pay:** ~**$3,300 USD/month** / ~**€3,000/month**  
     - **Effective Tax Rate:** ~**30%**  
-    - **Cost of Living Index:** ~**70**
+    - **Average Housing Cost:** ~**$1,000 USD/month**  
+    - **Disposable Income:** ~**$1,310 USD/month**  
   - **Belgium:**  
     - **Average Pay:** ~**$3,600 USD/month** / ~**€3,300/month**  
     - **Effective Tax Rate:** ~**42%**  
-    - **Cost of Living Index:** ~**75**
+    - **Average Housing Cost:** ~**$1,100 USD/month**  
+    - **Disposable Income:** ~**$988 USD/month**  
   - **Monaco:**  
     - **Average Pay:** ~**$6,000 USD/month** / ~**€5,500/month**  
     - **Effective Tax Rate:** **0%** (for residents)  
-    - **Cost of Living Index:** ~**150**
+    - **Average Housing Cost:** ~**$3,000 USD/month**  
+    - **Disposable Income:** ~**$3,000 USD/month**  
   - **Switzerland (French regions):**  
     - **Average Pay:** ~**$6,800 USD/month** / ~**€6,000/month**  
     - **Effective Tax Rate:** ~**12%**  
-    - **Cost of Living Index:** ~**110**
+    - **Average Housing Cost:** ~**$1,500 USD/month**  
+    - **Disposable Income:** ~**$4,484 USD/month**
 - **Benefits:**  
   - Provides a strong foundation for learning other Romance languages and is prized in international organizations.
 - **Difficulty Rating:** **IV** *(Very accessible with familiar vocabulary)*
+
+---
 
 ### German
 - **Global Reach:**  
@@ -84,22 +96,27 @@ Embrace this journey, knowing that every new language not only opens cultural do
   - **Total Speakers:** Over **100 million** speakers worldwide.
 - **Job Opportunities:**  
   - In high demand within engineering, automotive, and tech sectors.
-- **Primary German-Speaking Countries:**  
+- **Primary German-Speaking Countries:**
   - **Germany:**  
     - **Average Pay:** ~**$4,400 USD/month** / ~**€4,000/month**  
     - **Effective Tax Rate:** ~**30%**  
-    - **Cost of Living Index:** ~**70**
+    - **Average Housing Cost:** ~**$1,000 USD/month**  
+    - **Disposable Income:** ~**$2,080 USD/month**  
   - **Austria:**  
     - **Average Pay:** ~**$3,850 USD/month** / ~**€3,500/month**  
     - **Effective Tax Rate:** ~**30%**  
-    - **Cost of Living Index:** ~**68**
+    - **Average Housing Cost:** ~**$900 USD/month**  
+    - **Disposable Income:** ~**$1,795 USD/month**  
   - **Switzerland (German regions):**  
     - **Average Pay:** ~**$6,800 USD/month** / ~**€6,000/month**  
     - **Effective Tax Rate:** ~**12%**  
-    - **Cost of Living Index:** ~**110**
+    - **Average Housing Cost:** ~**$1,500 USD/month**  
+    - **Disposable Income:** ~**$4,484 USD/month**
 - **Benefits:**  
   - Opens pathways to robust technical careers and learning other Germanic languages.
 - **Difficulty Rating:** **III** *(Moderate challenges with grammar and compound words)*
+
+---
 
 ### Dutch
 - **Global Reach:**  
@@ -108,22 +125,27 @@ Embrace this journey, knowing that every new language not only opens cultural do
   - **Total Speakers:** Over **28 million** speakers worldwide.
 - **Job Opportunities:**  
   - Opportunities in international trade, shipping, and creative sectors.
-- **Primary Dutch-Speaking Regions:**  
+- **Primary Dutch-Speaking Regions:**
   - **Netherlands:**  
     - **Average Pay:** ~**$3,850 USD/month** / ~**€3,500/month**  
     - **Effective Tax Rate:** ~**35%**  
-    - **Cost of Living Index:** ~**80**
+    - **Average Housing Cost:** ~**$1,200 USD/month**  
+    - **Disposable Income:** ~**$1,303 USD/month**  
   - **Belgium (Flanders):**  
     - **Average Pay:** ~**$3,520 USD/month** / ~**€3,200/month**  
     - **Effective Tax Rate:** ~**40%**  
-    - **Cost of Living Index:** ~**75**
+    - **Average Housing Cost:** ~**$1,100 USD/month**  
+    - **Disposable Income:** ~**$1,012 USD/month**  
   - **Island Territories:**  
     - **Average Pay:** ~**$2,500 USD/month** / ~**€2,300/month**  
-    - **Effective Tax Rate:** ~**20%** (approx.)  
-    - **Cost of Living Index:** ~**60**
+    - **Effective Tax Rate:** ~**20%**  
+    - **Average Housing Cost:** ~**$700 USD/month**  
+    - **Disposable Income:** ~**$1,300 USD/month**
 - **Benefits:**  
   - Provides an accessible introduction to the Germanic language family.
 - **Difficulty Rating:** **IV** *(Very similar to English, making it accessible)*
+
+---
 
 ### Japanese
 - **Global Reach:**  
@@ -136,10 +158,13 @@ Embrace this journey, knowing that every new language not only opens cultural do
   - **Japan:**  
     - **Average Pay:** ~**$2,200 USD/month** / ~**€2,000/month**  
     - **Effective Tax Rate:** ~**20%**  
-    - **Cost of Living Index:** ~**70**
+    - **Average Housing Cost:** ~**$600 USD/month**  
+    - **Disposable Income:** ~**$1,160 USD/month**
 - **Benefits:**  
   - Offers deep cultural immersion and access to niche career paths.
 - **Difficulty Rating:** **I** *(Among the hardest due to unique writing systems and grammar)*
+
+---
 
 ### Mandarin
 - **Global Reach:**  
@@ -150,12 +175,15 @@ Embrace this journey, knowing that every new language not only opens cultural do
   - Essential in business, trade, and tech within a rapidly growing market.
 - **Primary Region:**  
   - **China:**  
-    - **Average Pay:** ~**$2,300 USD/month** / ~**€2,000/month** (bilingual professionals often earn more)  
+    - **Average Pay:** ~**$2,300 USD/month** / ~**€2,000/month**  
     - **Effective Tax Rate:** ~**15%**  
-    - **Cost of Living Index:** ~**50**
+    - **Average Housing Cost:** ~**$400 USD/month**  
+    - **Disposable Income:** ~**$1,555 USD/month**
 - **Benefits:**  
   - Unlocks profound insights into one of the world’s oldest cultures and booming global commerce.
 - **Difficulty Rating:** **I** *(Highly challenging with tones and complex characters)*
+
+---
 
 ### Swedish
 - **Global Reach:**  
@@ -168,10 +196,13 @@ Embrace this journey, knowing that every new language not only opens cultural do
   - **Sweden:**  
     - **Average Pay:** ~**$3,500 USD/month** / ~**€3,100/month**  
     - **Effective Tax Rate:** ~**30%**  
-    - **Cost of Living Index:** ~**80**
+    - **Average Housing Cost:** ~**$1,200 USD/month**  
+    - **Disposable Income:** ~**$1,250 USD/month**
 - **Benefits:**  
   - Provides a gentle introduction to Scandinavian languages with many English cognates.
 - **Difficulty Rating:** **IV** *(Straightforward grammar and pronunciation)*
+
+---
 
 ### Norwegian
 - **Global Reach:**  
@@ -184,10 +215,13 @@ Embrace this journey, knowing that every new language not only opens cultural do
   - **Norway:**  
     - **Average Pay:** ~**$4,000 USD/month** / ~**€3,600/month**  
     - **Effective Tax Rate:** ~**32%**  
-    - **Cost of Living Index:** ~**90**
+    - **Average Housing Cost:** ~**$1,300 USD/month**  
+    - **Disposable Income:** ~**$1,420 USD/month**
 - **Benefits:**  
   - Shares similarities with Swedish and Danish, making further Scandinavian studies smoother.
 - **Difficulty Rating:** **IV** *(Easily accessible with clear grammar and pronunciation)*
+
+---
 
 ### Danish
 - **Global Reach:**  
@@ -200,7 +234,8 @@ Embrace this journey, knowing that every new language not only opens cultural do
   - **Denmark:**  
     - **Average Pay:** ~**$4,600 USD/month** / ~**€3,800/month**  
     - **Effective Tax Rate:** ~**38%**  
-    - **Cost of Living Index:** ~**85**
+    - **Average Housing Cost:** ~**$1,300 USD/month**  
+    - **Disposable Income:** ~**$1,552 USD/month**
 - **Benefits:**  
   - Acts as a gateway to other Scandinavian languages and cultures.
 - **Difficulty Rating:** **III** *(Pronunciation presents some challenges, though grammar is manageable)*
@@ -209,13 +244,13 @@ Embrace this journey, knowing that every new language not only opens cultural do
 
 ## Conclusion
 
-In a world thriving on communication, the language you choose to learn can be transformative—not only boosting your career prospects with competitive salaries across diverse regions but also enriching your cognitive health. Whether it’s the rhythmic allure of Spanish, the strategic precision of German, or the intricate beauty of Mandarin, each language offers a unique blend of opportunities and challenges.
+In a world thriving on communication, the language you choose to learn can be transformative—not only boosting your career prospects with competitive salaries across diverse regions but also enriching your cognitive health. Whether it’s the rhythmic allure of Spanish, the strategic precision of German, or the intricate beauty of Mandarin, each language offers a unique blend of opportunities and challenges, including how much you might earn, spend on housing, and ultimately have left for yourself.
 
 ---
 
 ## Sources and References
 
-- **Spain Average Pay & Cost of Living Data:** [Numbeo - Spain Cost of Living](https://www.numbeo.com/cost-of-living/in/Spain)
+- **Spain Data:** [Numbeo - Spain Cost of Living](https://www.numbeo.com/cost-of-living/in/Spain)
 - **Argentina Data:** [Numbeo - Argentina Cost of Living](https://www.numbeo.com/cost-of-living/in/Argentina)
 - **Colombia Data:** [Numbeo - Colombia Cost of Living](https://www.numbeo.com/cost-of-living/in/Colombia)
 - **Mexico Data:** [Numbeo - Mexico Cost of Living](https://www.numbeo.com/cost-of-living/in/Mexico)
