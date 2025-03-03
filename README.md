@@ -24,7 +24,8 @@ Embrace this journey, knowing that every new language not only opens cultural do
 ### Spanish
 - **Global Reach:**  
   - **Countries:** Official language in over **21 countries**.
-  - **Native Speakers:** Over **460 million** worldwide.
+  - **Native Speakers:** Over **460 million** native speakers.
+  - **Total Speakers:** Over **560 million** speakers worldwide.
 - **Job Opportunities:**  
   - In the USA, bilingual employees may see an estimated **5-15% pay increase**.
 - **Average Pay in Primary Spanish-Speaking Countries:**  
@@ -40,6 +41,7 @@ Embrace this journey, knowing that every new language not only opens cultural do
 - **Global Reach:**  
   - **Countries:** Spoken in **29 countries** across continents.
   - **Native Speakers:** Approximately **80 million**.
+  - **Total Speakers:** Over **300 million** worldwide.
 - **Job Opportunities:**  
   - Vital in diplomacy, international business, and creative industries.
 - **Average Pay in Primary French-Speaking Countries:**  
@@ -55,6 +57,7 @@ Embrace this journey, knowing that every new language not only opens cultural do
 - **Global Reach:**  
   - **Countries:** Official language in **6 countries** including Germany, Austria, and Switzerland.
   - **Native Speakers:** Around **76 million**.
+  - **Total Speakers:** Over **100 million** speakers worldwide.
 - **Job Opportunities:**  
   - In high demand within engineering, automotive, and tech sectors.
 - **Average Pay in Primary German-Speaking Countries:**  
@@ -68,6 +71,8 @@ Embrace this journey, knowing that every new language not only opens cultural do
 ### Dutch
 - **Global Reach:**  
   - Primarily spoken in the **Netherlands**, **Belgium (Flanders)**, and various island territories.
+  - **Native Speakers:** Around **23 million**.
+  - **Total Speakers:** Over **28 million** speakers worldwide.
 - **Job Opportunities:**  
   - Opportunities in international trade, shipping, and creative sectors.
 - **Average Pay in Primary Dutch-Speaking Regions:**  
@@ -81,6 +86,8 @@ Embrace this journey, knowing that every new language not only opens cultural do
 ### Japanese
 - **Global Reach:**  
   - **Speakers:** About **125 million**, primarily in Japan.
+  - **Native Speakers:** Over **125 million** native speakers.
+  - **Total Speakers:** Approximately **130 million** speakers worldwide.
 - **Job Opportunities:**  
   - Critical for careers in technology, automotive, gaming, and cultural sectors.
 - **Average Pay in Japan:**  
@@ -92,6 +99,8 @@ Embrace this journey, knowing that every new language not only opens cultural do
 ### Mandarin
 - **Global Reach:**  
   - **Speakers:** Over **900 million** native speakers, mostly in China.
+  - **Native Speakers:** Over **900 million** native speakers.
+  - **Total Speakers:** Over **1.1 billion** speakers worldwide.
 - **Job Opportunities:**  
   - Essential in business, trade, and tech within a rapidly growing market.
 - **Average Pay in China:**  
@@ -103,6 +112,8 @@ Embrace this journey, knowing that every new language not only opens cultural do
 ### Swedish
 - **Global Reach:**  
   - Spoken by around **10 million** people, mainly in Sweden.
+  - **Native Speakers:** Over **10 million** native speakers.
+  - **Total Speakers:** Around **10 million** speakers worldwide.
 - **Job Opportunities:**  
   - Booming in technology, design, and academia within Scandinavia.
 - **Average Pay in Sweden:**  
@@ -114,6 +125,8 @@ Embrace this journey, knowing that every new language not only opens cultural do
 ### Norwegian
 - **Global Reach:**  
   - **Speakers:** Approximately **5 million** in Norway.
+  - **Native Speakers:** Over **5 million** native speakers.
+  - **Total Speakers:** Around **5 million** speakers worldwide.
 - **Job Opportunities:**  
   - Enhances career prospects in Scandinavian industries.
 - **Average Pay in Norway:**  
@@ -125,6 +138,8 @@ Embrace this journey, knowing that every new language not only opens cultural do
 ### Danish
 - **Global Reach:**  
   - **Speakers:** Around **5.5 million**, primarily in Denmark.
+  - **Native Speakers:** Over **5 million** native speakers.
+  - **Total Speakers:** Approximately **5.5 million** speakers worldwide.
 - **Job Opportunities:**  
   - Opens opportunities in business, maritime sectors, and creative fields.
 - **Average Pay in Denmark:**  
@@ -139,10 +154,7 @@ Embrace this journey, knowing that every new language not only opens cultural do
 
 In a world thriving on communication, the language you choose to learn can be transformative—not only boosting your career prospects with competitive salaries across diverse regions but also enriching your cognitive health. Whether it’s the rhythmic allure of Spanish, the strategic precision of German, or the intricate beauty of Mandarin, each language offers a unique blend of opportunities and challenges.
 
-
-
-
-
+---
 
 ## Sources and References
 
@@ -157,14 +169,5 @@ In a world thriving on communication, the language you choose to learn can be tr
 - **Germany Average Pay Data:** [Numbeo - Germany Cost of Living](https://www.numbeo.com/cost-of-living/in/Germany)
 - **Austria Average Pay Data:** [Numbeo - Austria Cost of Living](https://www.numbeo.com/cost-of-living/in/Austria)
 - **Netherlands Average Pay Data:** [Numbeo - Netherlands Cost of Living](https://www.numbeo.com/cost-of-living/in/Netherlands)
-- **Japan Average Pay Data:** [Numbeo - Japan Cost of Living](https://www.numbeo.com/cost-of-living/in/Japan)
-- **China Average Pay Data:** [Numbeo - China Cost of Living](https://www.numbeo.com/cost-of-living/in/China)
-- **Sweden Average Pay Data:** [Numbeo - Sweden Cost of Living](https://www.numbeo.com/cost-of-living/in/Sweden)
-- **Norway Average Pay Data:** [Numbeo - Norway Cost of Living](https://www.numbeo.com/cost-of-living/in/Norway)
-- **Denmark Average Pay Data:** [Numbeo - Denmark Cost of Living](https://www.numbeo.com/cost-of-living/in/Denmark)
+- **Japan Average Pay Data:** [Numbeo - Japan Cost of Living](https://www.numbeo
 
-  - **Language Difficulty Rankings for English Speakers:**
-  - [FSI Language Difficulty Rankings - Atlas & Boots](https://www.atlasandboots.com/travel-blog/foreign-service-institute-language-difficulty/)
-  - [Rosetta Stone - The Complete List of Language Difficulty Rankings](https://blog.rosettastone.com/the-complete-list-of-language-difficulty-rankings/)
-  - [Effective Language Learning - Language Difficulty Ranking](https://effectivelanguagelearning.com/language-guide/language-difficulty/)
-  - [Visual Capitalist - Map: Language Difficulty Ranking For English Speakers](https://www.visualcapitalist.com/language-difficulty-map/)
